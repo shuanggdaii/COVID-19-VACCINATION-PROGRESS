@@ -1,0 +1,4 @@
+country,iso_code,date,total_vaccinations,people_vaccinated,people_fully_vaccinated,daily_vaccinations_raw,daily_vaccinations,total_vaccinations_per_hundred,people_vaccinated_per_hundred,people_fully_vaccinated_per_hundred,daily_vaccinations_per_million,vaccines,source_name,source_website
+Afghanistan,AFG,2021-07-24,1171064.0,861336.0,,,13476.0,3.01,2.21,,346.0,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech"
+Andorra,AND,2021-01-25,576.0,576.0,,,,0.75,0.75,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Andorra,https://www.govern.ad/covid19_newsletter/
+Egypt,EGY,2021-07-26,5337506.0,3697974.0,1639532.0,32805.0,21064.0,5.22,3.61,1.6,206.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",World Health Organization,https://covid19.who.int/ionprocess/
